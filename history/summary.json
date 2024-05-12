@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/netinfo.takming.edu.tw.ico",
     "slug": "tip",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 1513,
-    "timeDay": 1229,
-    "timeWeek": 1182,
-    "timeMonth": 1513,
-    "timeYear": 1513,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1514,
+    "timeDay": 1522,
+    "timeWeek": 1227,
+    "timeMonth": 1514,
+    "timeYear": 1514,
     "dailyMinutesDown": {
       "2024-05-02": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2924,
-    "timeDay": 3262,
-    "timeWeek": 2740,
-    "timeMonth": 2924,
-    "timeYear": 2924,
+    "time": 2956,
+    "timeDay": 3600,
+    "timeWeek": 2798,
+    "timeMonth": 2956,
+    "timeYear": 2956,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 110,
-    "timeWeek": 173,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "time": 156,
+    "timeDay": 185,
+    "timeWeek": 179,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   }
 ]
