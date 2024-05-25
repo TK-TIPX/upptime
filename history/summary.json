@@ -13,7 +13,7 @@
     "time": 1426,
     "timeDay": 1537,
     "timeWeek": 1235,
-    "timeMonth": 1443,
+    "timeMonth": 1322,
     "timeYear": 1426,
     "dailyMinutesDown": {
       "2024-05-02": 48
@@ -24,9 +24,9 @@
     "url": "https://tipx.sao-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/tipx.sao-x.com.ico",
     "slug": "tipx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,14 +35,16 @@
     "timeWeek": 3010,
     "timeMonth": 2857,
     "timeYear": 2825,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-25": 0
+    }
   },
   {
     "name": "德明財經科技大學 宿舍網站 dormitory",
     "url": "https://takming.sao-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/takming.sao-x.com.ico",
     "slug": "dormitory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +55,8 @@
     "timeWeek": 125,
     "timeMonth": 142,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-25": 0
+    }
   }
 ]
