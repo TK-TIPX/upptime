@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
-    "time": 1426,
-    "timeDay": 1537,
-    "timeWeek": 1235,
-    "timeMonth": 1322,
-    "timeYear": 1426,
+    "time": 1414,
+    "timeDay": 976,
+    "timeWeek": 1207,
+    "timeMonth": 1324,
+    "timeYear": 1414,
     "dailyMinutesDown": {
       "2024-05-02": 48
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tipx.sao-x.com.ico",
     "slug": "tipx",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.92%",
+    "uptimeDay": "64.22%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.92%",
     "time": 2825,
-    "timeDay": 3272,
-    "timeWeek": 3010,
-    "timeMonth": 2857,
+    "timeDay": 0,
+    "timeWeek": 3040,
+    "timeMonth": 2845,
     "timeYear": 2825,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-26": 82,
+      "2024-05-25": 433
     }
   },
   {
@@ -45,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/takming.sao-x.com.ico",
     "slug": "dormitory",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.92%",
+    "uptimeDay": "64.22%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.92%",
     "time": 144,
-    "timeDay": 77,
-    "timeWeek": 125,
-    "timeMonth": 142,
+    "timeDay": 0,
+    "timeWeek": 121,
+    "timeMonth": 140,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-26": 82,
+      "2024-05-25": 433
     }
   }
 ]
