@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
-    "time": 1334,
-    "timeDay": 1325,
-    "timeWeek": 1401,
-    "timeMonth": 1270,
+    "time": 1333,
+    "timeDay": 934,
+    "timeWeek": 1272,
+    "timeMonth": 1262,
     "timeYear": 1326,
     "dailyMinutesDown": {
       "2025-05-06": 16,
@@ -37,16 +37,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tipx.sao-x.com.ico",
     "slug": "tipx",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2324,
-    "timeDay": 2362,
-    "timeWeek": 2003,
-    "timeMonth": 2037,
-    "timeYear": 2271,
+    "timeDay": 2059,
+    "timeWeek": 2148,
+    "timeMonth": 2024,
+    "timeYear": 2268,
     "dailyMinutesDown": {
       "2024-10-22": 20
     }
@@ -63,10 +63,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 222,
-    "timeWeek": 224,
-    "timeMonth": 205,
-    "timeYear": 189,
+    "timeDay": 221,
+    "timeWeek": 245,
+    "timeMonth": 204,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   }
 ]
