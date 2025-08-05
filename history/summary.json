@@ -8,12 +8,12 @@
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.35%",
-    "uptimeMonth": "98.77%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.28%",
     "time": 1335,
     "timeDay": 963,
     "timeWeek": 1309,
-    "timeMonth": 1300,
+    "timeMonth": 1302,
     "timeYear": 1332,
     "dailyMinutesDown": {
       "2025-08-03": 468,
@@ -39,9 +39,9 @@
     "url": "https://tipx.sao-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/tipx.sao-x.com.ico",
     "slug": "tipx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -51,6 +51,7 @@
     "timeMonth": 1845,
     "timeYear": 2143,
     "dailyMinutesDown": {
+      "2025-08-05": 0,
       "2025-07-14": 16,
       "2024-10-22": 20
     }
