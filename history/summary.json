@@ -41,9 +41,9 @@
     "slug": "tipx",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 2225,
     "timeDay": 2116,
@@ -51,7 +51,7 @@
     "timeMonth": 1875,
     "timeYear": 2080,
     "dailyMinutesDown": {
-      "2025-08-27": 83,
+      "2025-08-27": 71,
       "2025-07-14": 16,
       "2024-10-22": 20
     }
